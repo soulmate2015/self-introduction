@@ -1,0 +1,38 @@
+title: soulmate2015 / Tower
+description: Fish Farmer && Cat Farmer
+
+social:
+  - title: GitHub
+    img: /assets/images/favicon.ico
+    url: https://github.com/soulmate2015
+
+avatar: /assets/images/avatar.png
+introduction: >
+  Hi! My nickname is Tower. <br/>
+  Because I'm a little tall. Hahahaha~ <br/>
+
+projects:
+  title: Open Source Projects
+  github:
+    - soulmate2015/nestjs-demo
+    - soulmate2015/zbmy-orm
+  content: >
+    <p>Other projects that I have contributed can be found in <a href="https://github.com/soulmate2015">github.com/soulmate2015</a>.</p>
+
+working:
+  title: Working Experience
+  timeline:
+    - date: Now
+    - "Yyfax: Senior Front-End Engineer"
+    - date: 2017-05
+    - "Rabbitpre: Front-End Engineer"
+    - date: 2016-03
+    - "Lingge Technology: Full Stack Developer"
+    - date: 2014-07
+
+education:
+  title: Education Background
+  timeline:
+    - date: 2014-06
+    - "Huizhou University: Electrical Engineering and Its Automation"
+    - date: 2010-09
